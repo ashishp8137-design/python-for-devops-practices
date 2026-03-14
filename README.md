@@ -1,1 +1,1 @@
-Pratices Scripts Files
+Scripts Files of practices
